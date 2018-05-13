@@ -132,6 +132,7 @@ X-Xss-Protection: 1; mode=block
 * Dropwizard [dropwizard-web-security](https://github.com/palantir/dropwizard-web-security)
 * Ember.js [ember-cli-content-security-policy](https://github.com/rwjblue/ember-cli-content-security-policy/)
 * PHP [secure-headers](https://github.com/BePsvPT/secure-headers)
+* PHP [SecureHeaders](https://github.com/aidantwoods/SecureHeaders)
 
 ## License
 
